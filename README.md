@@ -21,7 +21,7 @@ https://doi.org/10.1287/ijoc.2023.0275.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{julien2024machine,
+@misc{Khandan2024ijoc,
   author =        {Khandan, Melika and Hoseinpour, Pooya},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Incorporating promotional effects in sales planning of retail industry using geometric programming}},
