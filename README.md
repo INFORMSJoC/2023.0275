@@ -7,12 +7,12 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The data in this repository is a snapshot of which was used in the research reported on in the paper 
+The data in this repository was used in the research reported on in the paper 
 [Incorporating promotional effects in sales planning of retail industry using geometric programming](https://doi.org/10.1287/ijoc.2023.0275) by M. Khandan, and P. Hoseinpour. 
 
 ## Cite
 
-To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs (SHOULD BE UPDATED).
 
 https://doi.org/10.1287/ijoc.2023.0275
 
@@ -34,7 +34,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## Description
 
-This directory contains all the instances and results in both **Numerical Experiments** and **Case Study** Sections in the paper. The source codes will be made available upon reasonable request.
+This directory contains all the instances and results in both **Numerical Experiments** and **Case Study** Sections in the paper. **The source codes will be made available upon reasonable request**.
 
 This directory contains the folders `Instances for Numerical Experiments (Section 5)` and `Instances for Case study (Section 6)`:
 - `Instances for Numerical Experiments (Section 5)`: includes the instances and results reported in Section 5. This folder is organized as follows: 
