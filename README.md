@@ -10,9 +10,9 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The data in this repository was used in the research reported on in the paper 
 [Incorporating promotional effects in sales planning of retail industry using geometric programming](https://doi.org/10.1287/ijoc.2023.0275) by M. Khandan, and P. Hoseinpour. 
 
-## Cite
+## Cite (SHOULD BE UPDATED)
 
-To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs (SHOULD BE UPDATED).
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
 https://doi.org/10.1287/ijoc.2023.0275
 
