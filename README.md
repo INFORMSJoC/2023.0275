@@ -1,5 +1,3 @@
-# 2023.0275
-
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # Incorporating promotional effects in sales planning of retail industry using geometric programming
@@ -10,7 +8,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 The data in this repository was used in the research reported on in the paper 
 [Incorporating promotional effects in sales planning of retail industry using geometric programming](https://doi.org/10.1287/ijoc.2023.0275) by M. Khandan, and P. Hoseinpour. 
 
-## Cite (SHOULD BE UPDATED)
+## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
 
