@@ -44,7 +44,7 @@ This directory contains all the instances and results in both **Numerical Experi
   - `Instances for Case study (Section 6)/Figure 7/`: instances and results reported in Figure 7.
   - `Instances for Case study (Section 6)/Figure 8/`: instances and results reported in Figure 8.
 
-In addition, the **source code** is availabe, named as "main code.gms". The file includes the following four parts:
+In addition, the **source code** is availabe, named as "main code.gms", implemented in GAMS. The file includes the following four parts:
 1. Codes for the convex promotion optimization model using the geometric programming approach.
 2. Codes for the non-convex promotion optimization model. This part is added to ensure the accuracy of the Taylor approximation based on the comments we received in the second revision.
 3. Codes for the Lagrangian decomposition algorithm.
