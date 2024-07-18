@@ -32,14 +32,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## Description
 
-This directory contains all the instances and results in both **Numerical Experiments** and **Case Study** Sections in the paper. In addition, the source code is availabe, named as "main code". The file includes the following four parts:
-
-1. Codes for the convex promotion optimization model using the geometric programming approach.
-2. Codes for the non-convex promotion optimization model. This part is added to ensure the accuracy of the Taylor approximation based on the comments we received in the second revision.
-3. Codes for the Lagrangian decomposition algorithm.
-4. Codes for the Lagrangian decomposition algorithm, decomposed over time (t) to reduce the running time of sub-model 1.
-
-This directory contains the folders `Instances for Numerical Experiments (Section 5)` and `Instances for Case study (Section 6)`:
+This directory contains all the instances and results in both **Numerical Experiments** and **Case Study** Sections in the paper. The directory contains the folders `Instances for Numerical Experiments (Section 5)` and `Instances for Case study (Section 6)`:
 - `Instances for Numerical Experiments (Section 5)`: includes the instances and results reported in Section 5. This folder is organized as follows: 
   - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/`: instances and results reported in Section 5-2.
     - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 4/`: instances and results reported in Table 4.
@@ -50,3 +43,9 @@ This directory contains the folders `Instances for Numerical Experiments (Sectio
   - `Instances for Case study (Section 6)/Figure 6 and Table 9/`: instances and results reported in Figure 6 and Table 9.
   - `Instances for Case study (Section 6)/Figure 7/`: instances and results reported in Figure 7.
   - `Instances for Case study (Section 6)/Figure 8/`: instances and results reported in Figure 8.
+
+In addition, the **source code** is availabe, named as "main code.gms". The file includes the following four parts:
+1. Codes for the convex promotion optimization model using the geometric programming approach.
+2. Codes for the non-convex promotion optimization model. This part is added to ensure the accuracy of the Taylor approximation based on the comments we received in the second revision.
+3. Codes for the Lagrangian decomposition algorithm.
+4. Codes for the Lagrangian decomposition algorithm, decomposed over time (t) to reduce the running time of sub-model 1.
