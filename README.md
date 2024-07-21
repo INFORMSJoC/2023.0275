@@ -33,7 +33,8 @@ Below is the BibTex for citing this snapshot of the repository.
 ## Description
 
 This directory contains all the instances and results in both **Numerical Experiments** and **Case Study** Sections in the paper. The directory contains the folders `Instances for Numerical Experiments (Section 5)` and `Instances for Case study (Section 6)`:
-- `Instances for Numerical Experiments (Section 5)`: includes the instances and results reported in Section 5. This folder is organized as follows: 
+- `Instances for Numerical Experiments (Section 5)`: includes the instances and results reported in Section 5. This folder is organized as follows:
+  - `Instances for Numerical Experiments (Section 5)/for Comparison between convex and non-convex model (Section 5-1)/`: instances and results reported in Table 1.
   - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/`: instances and results reported in Section 5-2.
     - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 4/`: instances and results reported in Table 4.
     - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 5 and Table 6/`: instances and results reported in Table 5 and Table 6.
