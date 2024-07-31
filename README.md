@@ -36,12 +36,12 @@ This directory contains all the instances and results in both **Numerical Experi
 - `Instances for Numerical Experiments (Section 5)`: includes the instances and results reported in Section 5. This folder is organized as follows:
   - `Instances for Numerical Experiments (Section 5)/for Comparison between convex and non-convex model (Section 5-1)/`: instances and results reported in Table 1.
   - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/`: instances and results reported in Section 5-2.
-    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 4/`: instances and results reported in Table 4.
-    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 5 and Table 6/`: instances and results reported in Table 5 and Table 6.
+    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 4/`: instances and results reported in Table 5.
+    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 5 and Table 6/`: instances and results reported in Table 6 and Table 7.
   - `Instances for Numerical Experiments (Section 5)/for Sensitivity Analysis (Section 5-3)/`: instances and results reported in Section 5-3.
-    - `Instances for Numerical Experiments (Section 5)/for Sensitivity Analysis (Section 5-3)/Table 7 and Figure 5/`: instances and results reported in Table 7 and Figure 5.
+    - `Instances for Numerical Experiments (Section 5)/for Sensitivity Analysis (Section 5-3)/Table 7 and Figure 5/`: instances and results reported in Table 9 and Figure 5.
 - `Instances for Case study (Section 6)`: includes the instances and results reported in Section 6. This folder is organized as follows:  
-  - `Instances for Case study (Section 6)/Figure 6 and Table 9/`: instances and results reported in Figure 6 and Table 9.
+  - `Instances for Case study (Section 6)/Figure 6 and Table 9/`: instances and results reported in Figure 6 and Table 11.
   - `Instances for Case study (Section 6)/Figure 7/`: instances and results reported in Figure 7.
   - `Instances for Case study (Section 6)/Figure 8/`: instances and results reported in Figure 8.
 
