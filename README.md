@@ -5,8 +5,8 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The data in this repository was used in the research reported on in the paper 
-[Incorporating promotional effects in sales planning of retail industry using geometric programming](https://doi.org/10.1287/ijoc.2023.0275) by M. Khandan, and P. Hoseinpour. 
+The data in this repository was used in the research reported on in the paper
+[Incorporating promotional effects in sales planning of retail industry using geometric programming](https://doi.org/10.1287/ijoc.2023.0275) by M. Khandan, and P. Hoseinpour.
 
 ## Cite
 
@@ -27,7 +27,7 @@ Below is the BibTex for citing this snapshot of the repository.
   doi =           {10.1287/ijoc.2023.0275.cd},
   url =           {https://github.com/INFORMSJoC/2023.0275},
   note =          {Available for download at https://github.com/INFORMSJoC/2023.0275},
-}  
+}
 ```
 
 ## Description
@@ -36,12 +36,12 @@ This directory contains all the instances and results in both **Numerical Experi
 - `Instances for Numerical Experiments (Section 5)`: includes the instances and results reported in Section 5. This folder is organized as follows:
   - `Instances for Numerical Experiments (Section 5)/for Comparison between convex and non-convex model (Section 5-1)/`: instances and results reported in Table 1.
   - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/`: instances and results reported in Section 5-2.
-    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 4/`: instances and results reported in Table 5.
-    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 5 and Table 6/`: instances and results reported in Table 6 and Table 7.
+    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 5/`: instances and results reported in Table 5.
+    - `Instances for Numerical Experiments (Section 5)/for Lagrangian Decomposition Algorithm (Section 5-2)/Table 6 and Table 7/`: instances and results reported in Table 6 and Table 7.
   - `Instances for Numerical Experiments (Section 5)/for Sensitivity Analysis (Section 5-3)/`: instances and results reported in Section 5-3.
-    - `Instances for Numerical Experiments (Section 5)/for Sensitivity Analysis (Section 5-3)/Table 7 and Figure 5/`: instances and results reported in Table 9 and Figure 5.
-- `Instances for Case study (Section 6)`: includes the instances and results reported in Section 6. This folder is organized as follows:  
-  - `Instances for Case study (Section 6)/Figure 6 and Table 9/`: instances and results reported in Figure 6 and Table 11.
+    - `Instances for Numerical Experiments (Section 5)/for Sensitivity Analysis (Section 5-3)/Table 9 and Figure 5/`: instances and results reported in Table 9 and Figure 5.
+- `Instances for Case study (Section 6)`: includes the instances and results reported in Section 6. This folder is organized as follows:
+  - `Instances for Case study (Section 6)/Figure 6 and Table 11/`: instances and results reported in Figure 6 and Table 11.
   - `Instances for Case study (Section 6)/Figure 7/`: instances and results reported in Figure 7.
   - `Instances for Case study (Section 6)/Figure 8/`: instances and results reported in Figure 8.
 
